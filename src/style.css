@@ -91,11 +91,12 @@ body {
 }
 
 #right {
+    display: flex;
     margin-left: auto;
     gap: 20px;
     padding-right: 30px;
 }
 
 footer span:hover {
-    
+    text-decoration: underline;
 }
