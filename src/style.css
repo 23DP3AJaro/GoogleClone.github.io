@@ -54,10 +54,12 @@ body {
     height: 20px;
     width: 75%;
     padding-left: 4px;
+    outline: none;
 }
 
 #SearchBox input:focus {
     border: none;
+    outline: none;
 }
 
 #buttons button {
